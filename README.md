@@ -2,7 +2,8 @@
 
 ## What about me 
 
-I'm developer with a Versatile in programming languages, but i'm focused on discord development bot.
+I'm developer with a Versatile in programming languages, but i'm focused on Discord 
+development bot.
 
 ## Contact:
 
