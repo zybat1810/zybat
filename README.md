@@ -6,8 +6,8 @@ I'm developer with a Versatile in programming languages, but i'm focused on disc
 
 ## Contact:
 
-<a href="https://discord.com/users/1321538428365705228" target="_blank"> <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="40" height="40"/> </a> 
-<a href="https://www.instagram.com/hamdaoui_zyad_" target="_blank"> <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="40" height="40"/> </a>
+<a href="https://discord.com/users/1321538428365705228" target="_blank"> <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" width="40" height="40"/> </a> 
+<a href="https://www.instagram.com/hamdaoui_zyad_" target="_blank"> <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="instagram" width="40" height="40"/> </a>
 
 </div>  
 
