@@ -7,11 +7,11 @@ I'm developer with a Versatile in programming languages, but i'm focused on disc
 ## Contact:
 
 <a href="https://discord.com/users/1321538428365705228" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <img src="https://www.svgrepo.com/show/353655/discord-icon.svg">
 </a>
 
-<a href="https://www.instagram.com/hamdaoui_zyad_" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Akash Shrivastava Instagram style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/hamdaoui_zyad_" target="_blank"> 
+  <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" /> 
 </a>
 
 </div>  
