@@ -21,4 +21,4 @@ development bot.
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.svgrepo.com/show/373306/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank"> <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt="nodejs" width="40" height="40"/> </a>
 
-# Hit the ⭐ [here](https://github.com/zybat1810/zybat) if this made you smile 😁
+# Hit the ⭐ [here](https://github.com/zybat/zybat) if this made you smile 😁
