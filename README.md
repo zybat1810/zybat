@@ -23,6 +23,6 @@ I'm developer with a Versatile in programming languages, but i'm focused on disc
   <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/js/js_intro.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt="nodejs" width="40" height="40"/> </a>
 
 # Hit the ⭐ [here](https://github.com/zybat1810/zybat) if this made you smile 😁
